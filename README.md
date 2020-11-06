@@ -30,7 +30,10 @@
  
   - In other sites customers are usually buyes but in our project any customer can atc as seller and buyer as well.
 
- 
+**ER Diagram**
+
+
+
 **Installation Guide :**
 
   1. download the zip file and extract it.
