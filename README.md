@@ -21,25 +21,20 @@
 
 **Features**
 
-  - Make Groups
-  - Send group or personal messages
-  - send pictures
-  - emojis also supported
-  - users can join multiple groups and hence keep separate groups for different works.
-
-
-**How it is different from other chat applications ?** 
+  - Provide stastic analysis to customer and sellers.
+  - For customers provide analysis of spending over various categories.
+  - For sellers provide analysis of sell ratio over various cities.
  
-  - You can make different groups for family/work. You can be a part of different groups at the same time. Based on ideology of Slack.
-  - Users in a group can interact with personal messages as well as have a group chat
-  - Having a different groups for different purposes helps to keep things organised.
 
+**How it is different from other Online sites ?** 
+ 
+  - In other sites customers are usually buyes but in our project any customer can atc as seller and buyer as well.
 
  
 **Installation Guide :**
 
-1. download the zip file and extract it.
-2. copy and paste it in C://xampp/htdocs
-3. import database file in "ecom" databse in xampp 
-4. open chrome type "localhost/Online-Shop" .
+  1. download the zip file and extract it.
+  2. copy and paste it in C://xampp/htdocs
+  3. import database file in "ecom" databse in xampp 
+  4. open chrome type "localhost/Online-Shop" .
 
