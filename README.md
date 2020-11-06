@@ -1,7 +1,7 @@
- **Project Name :  Online Market Place
+**Project Name :  Online Market Place**
 
 
-**Hosted on https://github.com/vaibhavi-28/DBMS-Project 
+**Hosted on https://github.com/vaibhavi-28/DBMS-Project**
 
 
 **Members** 
@@ -18,14 +18,6 @@
  - PHP for backend
  - MySQL database
  
- 
-**How to run :
-
-1. download the zip file and extract it.
-2. copy and paste it in C://xampp/htdocs
-3. import database file in "ecom" databse in xampp 
-4. open chrome type "localhost/Online-Shop" .
-
 
 **Features**
 
@@ -41,4 +33,13 @@
   - You can make different groups for family/work. You can be a part of different groups at the same time. Based on ideology of Slack.
   - Users in a group can interact with personal messages as well as have a group chat
   - Having a different groups for different purposes helps to keep things organised.
+
+
+ 
+**How to run :**
+
+1. download the zip file and extract it.
+2. copy and paste it in C://xampp/htdocs
+3. import database file in "ecom" databse in xampp 
+4. open chrome type "localhost/Online-Shop" .
 
