@@ -36,7 +36,7 @@
 
 
  
-**How to run :**
+**Installation Guide :**
 
 1. download the zip file and extract it.
 2. copy and paste it in C://xampp/htdocs
